@@ -1,0 +1,3 @@
+Name: Nathan
+Age: 19.01
+Hobby: EQ
